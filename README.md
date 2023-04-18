@@ -12,7 +12,9 @@ I also started learning Python since I want to create a webbased project for hos
 
 
 ## 🛠️ What I can do
-Administrating all kinds of Windows and Linux Servers as well as deploying these in remote and on-premise environments like VMware vSphere and/or VMware ESXi, Microsoft Azure, Hetzner Cloud and Proxmox (which these last two I use myself),
+Setting up and administrating all kinds of Windows and Linux Servers as well as deploying these in remote and on-premise environments like VMware vSphere and/or VMware ESXi, Microsoft Azure, Hetzner Cloud and Proxmox (which these last two I use myself),
+
+Controlling access to corporate resources via technologies like Active Directory,
 
 Planning, configuring, managing and securing (phyiscal, scale-out and on-premise storage) backups,
 
@@ -34,6 +36,8 @@ And much more as I will continue to learn!
 ## 🖥️⌨️ Want a quick chat? 
 
 Discord tag: Shinney#1750 
+
+Reddit: Shore-Shinney
 
 Mail: contact@thebavarianentertainment.company
 
