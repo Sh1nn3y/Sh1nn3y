@@ -54,7 +54,7 @@ Currently not interested in any job offers.
 # 📊 Statistics and stuff:
 ![](https://github-readme-stats.vercel.app/api?username=Sh1nn3y&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sh1nn3y&theme=vue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sh1nn3y&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br\>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sh1nn3y&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/)
 [![](https://visitcount.itsvg.in/api?id=Sh1nn3y&icon=3&color=3)](https://visitcount.itsvg.in)
 
 # 🖥️ Equipment
