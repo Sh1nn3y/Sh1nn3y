@@ -1,4 +1,4 @@
-## 🤓 About Me
+# 🤓 About Me
 
 Greetings, fellow visitor 👋.
 
@@ -11,7 +11,8 @@ On this profile you will, for the most part, find scripts written in AHK (AutoHo
 I also started learning Python since I want to create a webbased project for hosting mainly screenshots and videos, as well as automatically embedding these into applications like Discord, WhatsApp, Microsoft Teams and many more (see the "immagger-project" repository [currently private]).
 
 
-## 🛠️ What I can do
+# 🛠️ Current Skillset:
+
 Setting up and administrating all kinds of Windows and Linux Servers as well as deploying these in remote and on-premise environments like VMware vSphere and/or VMware ESXi, Microsoft Azure, Hetzner Cloud and Proxmox (which these last two I use myself),
 
 Controlling access to corporate resources via technologies like Active Directory,
@@ -22,7 +23,7 @@ Deploying applications and other software to corporate devices and endpoints via
 
 Planning and building "state-of-the-art" data-centers,
 
-Setting up, continuously monitoring plus dynamically adapting networks to business and operational needs, 
+Setting up, continuously monitoring plus dynamically adapting network hardware and its configuration to business and operational needs, 
 
 Automating repeating tasks via PowerShell and AutoHotkey,
 
@@ -30,12 +31,12 @@ Providing general and advanced support for end users and customers,
 
 Fixing this stupid printer for the 9th time, 
 
-And much more as I will continue to learn!
+And much more as I will continue to learn and improve myself.
 
 
-## ⌨️ Want a quick chat? 
+# ⌨️ Want to chat?
 
-Discord tag: Shinney#1750 
+Discord: Shinney#1750 
 
 Reddit: Shore-Shinney
 
@@ -45,17 +46,47 @@ These are my official contacts, anything not listed here is either PRIVATE or NO
 
 Currently not interested in any job offers.
 
-<!--
-**Sh1nn3y/Sh1nn3y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 🖥️ Equipment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## The specs of my "heart", aka the computer:
+
+CPU: Intel i5 12400f with stock cooler
+
+GPU: ASUS Cerberus Nvidia GeForce GTX 1050 Ti Advanced
+
+Mainboard: Gigabyte B660 Gaming X So.1700 DDR4 ATX
+
+Memory: Crucial Ballistix 16GB Kit (2x 8GB modules) 3200MHz DDR4 - Color: White
+
+Hard drives: Samsung 980 500GB - NVMe M.2 SSD, Toshiba P300 Desktop 1 TB - HDD
+
+Case: NZXT 510i - Color: Black/Red
+
+PSU: be quiet! System Power 9 500W
+
+Operating System: Windows 11 Professional 
+
+## What I have in front of and on me, aka the desk setup:
+
+Keyboard: Das Keyboard 6 Professional - Cherry MX Blue Switches
+
+Mouse: Microsoft Pro IntelliMouse - Color: Shadow White
+
+Monitor(s): iiyama G-Master Black Hawk 27" (primary), HP M27f Silver 27" (secondary)
+
+Mousepad: Roccat Taito Mid Size
+
+Microphone: Blue Snowball - Color: Black
+
+Microphone Arm: TIKmobre Snowball Microphone Arm
+
+Headphones: beyerdynamic DT 990 Pro
+
+Webcam: Logitech C920 Pro
+
+## Other stuff:
+
+Chair: Sharkoon Skiller SGS4 - Color: Black/Green
+
+Phone: Samsung Galaxy A52s 256GB - Color: Awesome Mint
