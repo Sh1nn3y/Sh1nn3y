@@ -19,17 +19,21 @@ Controlling access to corporate resources via technologies like Active Directory
 
 Planning, configuring, managing and securing (phyiscal, scale-out and on-premise storage) backups,
 
-Deploying applications and other software to corporate devices and endpoints via Microsoft's Configuration Manager, formerly called "SCCM - System Center Configuration Manager",
+Deploying applications, policies and other necessities to corporate devices and endpoints via Microsoft's Configuration Manager, formerly called "SCCM - System Center Configuration Manager",
 
 Planning and building "state-of-the-art" data-centers,
 
-Setting up, continuously monitoring plus dynamically adapting network hardware and its configuration to business and operational needs, 
+Setting up, continuously monitoring plus dynamically adapting network hardware and its configuration to business and operational needs,
 
-Automating repeating tasks via PowerShell and AutoHotkey,
+Evaluating, managing, migrating and preventing vulnerabilities together with other cyber security risks,
+
+Automating repeating tasks with PowerShell and AutoHotkey,
+
+Documenting,
 
 Providing general and advanced support for end users and customers,
 
-Fixing this stupid printer for the 9th time, 
+Fixing this stupid printer for the 9th time today, 
 
 And much more as I will continue to learn and improve myself.
 
