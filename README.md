@@ -13,7 +13,7 @@ I also started learning Python since I want to create a webbased project for hos
 
 # 🛠️ Current Skillset:
 
-Setting up and administrating all kinds of Windows and Linux Servers as well as deploying these in remote and on-premise environments like VMware vSphere and/or VMware ESXi, Microsoft Azure, Hetzner Cloud and Proxmox (which these last two I use myself),
+Setting up and administrating all kinds of Windows and Linux Servers as well as deploying these in remote and/or on-premise virtualization environments like VMware vSphere combined with VMware ESXi, Microsoft Azure, Hetzner Cloud and Proxmox (which these last two I use myself) or oldschool as a physical maschine,
 
 Controlling access to corporate resources via technologies like Active Directory,
 
@@ -22,6 +22,8 @@ Planning, configuring, managing and securing (phyiscal, scale-out and on-premise
 Deploying applications, policies and other necessities to corporate devices and endpoints via Microsoft's Configuration Manager, formerly called "SCCM - System Center Configuration Manager",
 
 Planning and building "state-of-the-art" data-centers,
+
+Providing SAN solutions with NetApp File Servers,
 
 Setting up, continuously monitoring plus dynamically adapting network hardware and its configuration to business and operational needs,
 
