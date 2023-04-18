@@ -48,6 +48,8 @@ Reddit: Shore-Shinney
 
 Mail: contact@thebavarianentertainment.company
 
+Instagram (generally not accepting people that I do not know in person): sh1nn3y_
+
 These are my official contacts, anything not listed here is either PRIVATE or NOT ME!
 
 Currently not interested in any job offers.
