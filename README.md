@@ -33,7 +33,7 @@ Fixing this stupid printer for the 9th time,
 And much more as I will continue to learn!
 
 
-## 🖥️⌨️ Want a quick chat? 
+## ⌨️ Want a quick chat? 
 
 Discord tag: Shinney#1750 
 
