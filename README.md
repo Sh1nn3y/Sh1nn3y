@@ -40,21 +40,6 @@ Fixing this stupid printer for the 9th time today,
 And much more as I will continue to learn and improve myself.
 
 
-# ⌨️ Want to chat?
-
-Discord: Shinney#1750 
-
-Reddit: Shore-Shinney
-
-Mail: contact@thebavarianentertainment.company
-
-Instagram (generally not accepting people that I do not know in person): sh1nn3y_
-
-These are my official contacts, anything not listed here is either PRIVATE or NOT ME!
-
-Currently not interested in any job offers.
-
-
 # 📊 Statistics:
 
 ![](https://github-readme-stats.vercel.app/api?username=Sh1nn3y&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>
