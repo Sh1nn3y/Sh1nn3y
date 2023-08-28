@@ -87,7 +87,7 @@ Operating System: Windows 11 Professional
 
 ## What I have in front of and on me, aka the desk setup:
 
-Keyboard: Das Keyboard 6 Professional - Cherry MX Blue Switches
+Keyboard: Das Keyboard 6 Professional - Cherry MX Blue Switches / Keychron K4 V2 (Brown Switches)
 
 Mouse: Microsoft Pro IntelliMouse - Color: Shadow White
 
