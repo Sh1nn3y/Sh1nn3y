@@ -8,14 +8,16 @@ Therefore I started pursuing a carrer as an apprentice for system integration in
 
 On this profile you will, for the most part, find scripts written in AHK (AutoHotkey) or PowerShell that I use to help me do my job as an IT administrator and helpdesk operator.
 
-I also started learning Python since I want to create a webbased project for hosting mainly screenshots and videos, as well as automatically embedding these into applications like Discord, WhatsApp, Microsoft Teams and many more (see the "immagger-project" repository [currently private]).
+I also started learning Python since I want to create a webbased project for hosting mainly screenshots and videos, as well as automatically embedding these into applications like Discord, WhatsApp, Microsoft Teams and many more.
 
+Currently I am actively working on a project for Windows administrators. This software will be called AWAAC (Advanced Windows Administration and Automation Console).
+It is written in AutoHotkey, which has become a very powerful, lightweight, fast and easy to learn scripting language. My goal here is to create an open source software under the GPL-License with a rich ecosystem of simply downloadable extra functionality as well as being easily expandable/customizable so that anyone can quickly adapt the software to his or her ever changing specific needs with Plugins or 'Modules'.
 
 # 🛠️ Current Skillset:
 
 Setting up and administrating all kinds of Windows and Linux Servers as well as deploying these in remote and/or on-premise virtualization environments like VMware vSphere combined with VMware ESXi, Microsoft Azure, Hetzner Cloud and Proxmox (which these last two I use myself) or oldschool as a physical maschine,
 
-Controlling access to corporate resources via technologies like Active Directory,
+Controlling access to corporate resources via technologies like Microsoft Active Directory and EntraID (former Microsoft Azure Active Directory),
 
 Planning, configuring, managing and securing (physical, scale-out and on-premise storage) backups,
 
