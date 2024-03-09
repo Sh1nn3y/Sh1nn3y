@@ -10,8 +10,7 @@ On this profile you will, for the most part, find scripts written in AHK (AutoHo
 
 I also started learning Python since I want to create a webbased project for hosting mainly screenshots and videos, as well as automatically embedding these into applications like Discord, WhatsApp, Microsoft Teams and many more.
 
-Currently I am actively working on a project for Windows administrators. This software will be called AWAAC (Advanced Windows Administration and Automation Console).
-It is written in AutoHotkey, which has become a very powerful, lightweight, fast and easy to learn scripting language. My goal here is to create an open source software under the GPL-License with a rich ecosystem of simply downloadable extra functionality as well as being easily expandable/customizable so that anyone can quickly adapt the software to his or her ever changing specific needs with Plugins or 'Modules'.
+Currently working on my project for my finals as well as some other small scripts/applications for power-users/administrators.
 
 # 🛠️ Current Skillset:
 
